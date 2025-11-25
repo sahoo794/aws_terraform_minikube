@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"minikube","Source":"git::https://github.com/scholzj/terraform-aws-minikube.git","Dir":".terraform/modules/minikube"},{"Key":"minikube.kubeadm-token","Source":"registry.terraform.io/scholzj/kubeadm-token/random","Version":"1.2.0","Dir":".terraform/modules/minikube.kubeadm-token"}]}
